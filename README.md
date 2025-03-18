@@ -8,9 +8,11 @@
 [![Python Version](https://img.shields.io/badge/Python-3.10-blue.svg)]()
 [![GitHub license](https://img.shields.io/badge/MIT-blue)]()
 
-![](docs/images/being-vl-0-intro.png)
-
 </div>
+
+The official repository of our [Paper](https://openreview.net/pdf?id=3TnLGGHhNx) at **ICLR 2025**.
+
+![](docs/images/being-vl-0-intro.png)
 
 We propose a novel training paradigm for multimodal learning through our BPE Image Tokenizer, which applies the principles of text tokenization to visual data. Unlike conventional approaches, our method directly incorporates structural prior information into image tokens, enabling Transformer models to better learn across modalities. Our `Being-VL-0` model demonstrates how this paradigm effectively bridges the gap between visual and textual representation learning.
 
