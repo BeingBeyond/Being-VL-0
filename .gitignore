@@ -1,0 +1,13 @@
+.vscode
+.ipynb_checkpoints/
+*.pkl
+*.zip
+*.egg-info/
+.env
+.DS_Store
+__pycache__/
+.deepspeed_env
+outputs/
+logs/
+test_dir/
+data/
